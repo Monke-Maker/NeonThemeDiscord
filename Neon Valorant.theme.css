@@ -1,0 +1,40 @@
+/**
+* @name Neon Valorant
+* @version Auto Update
+* @description The Cleanest Neon Valorant Theme
+* @author Benji
+* @Source https://github.com/DiscordStyles/FrostedGlass
+* @website https://betterdiscord.app/theme/Frosted%20Glass
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://fonts.googleapis.com/css2?family=Roboto');
+:root {
+--background-image: url('https://i.imgur.com/M2Eg78u.jpg');
+--background-image-blur: 0px;
+--background-image-size: cover;
+--background-image-position: left;
+--popout-modal-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEFlUD14T93Onbda4nhpE55Paq7kXGqmoZ2WxM4k5p&s');
+--popout-modal-blur: 0px;
+--popout-modal-size: cover;
+--popout-modal-position: top;
+--home-button-image: url('');
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 0.8;
+--left-brightness: 0.8;
+--middle-brightness: 0.6;
+--right-brightness: 0;
+--popout-modal-brightness: .42;
+--gradient-primary: 28,156,183;
+--gradient-secondary: 26,90,181;
+--gradient-direction: 320deg;
+--tint-colour: 46,126,255;
+--tint-brightness: 0.15;
+--window-padding: 0px;
+--window-roundness: 0px;
+--scrollbar-colour: #1CE6FFE0;
+--link-colour: #00b0f4;
+--show-gift-gif-buttons: no-repeat;
+--font: 'Roboto';
+--update-notice-1: none;
+}
